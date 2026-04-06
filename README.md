@@ -20,7 +20,7 @@ While it may not actually be the case, if the Federal government of Canada were 
 
 [Data](data/)
 
-[Images])img/)
+[Images](img/)
 
 [Source Code](src/)
 
